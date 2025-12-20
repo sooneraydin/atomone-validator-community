@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+|  KaLaMuC |  https://atonex.io/validators/atonevaloper15edkl4ks6q0u7pn3gargp7ew952qu82k226n39 | https://x.com/sooneraydin  |  Finland | sooneraydin  | soneraydin85@gmail.com  | kalamuc  | 0FD46BE9DAAADAEEA364944EC14D96779E60C4F0854B9819E158F530C494121D  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
